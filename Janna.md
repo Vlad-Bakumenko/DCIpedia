@@ -1,0 +1,5 @@
+ # Queen
+ Queen ist eine 1970 gegründete britische Rockband. Ihre Besetzung mit Freddie Mercury, Brian May, Roger Taylor und John Deacon blieb zwei Jahrzehnte lang unverändert.
+
+Die Musik der Gruppe ist durch große stilistische Vielfalt gekennzeichnet, und alle Bandmitglieder waren wesentlich am Songwriting beteiligt. Zu Queens bekanntesten Songs zählen das von Freddie Mercury komponierte We Are the Champions, Brian Mays We Will Rock You, John Deacons Another One Bites the Dust und Roger Taylors Radio Ga Ga. Die Mercury-Komposition Bohemian Rhapsody belegte sowohl 1975 als auch 1991 viele Wochen lang die Spitze der britischen Singlecharts. Für diesen Titel, der Ballade und operettenhaft überzeichnete Gesangskapriolen sowie Hardrock in einem Song vereint, produzierte die Band eines der frühesten und stilprägenden Musikvideos. 
+![Queen](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Queen_%E2%80%93_montagem_%E2%80%93_new.png/405px-Queen_%E2%80%93_montagem_%E2%80%93_new.png)
